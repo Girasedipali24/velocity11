@@ -1,0 +1,15 @@
+Com\ECommerce\BaseClass\SimpleBaseClass.class
+Ecommerce\Utilities\Listeners.class
+Utilities\ExtentReportsNG.class
+Utilities\Listeners.class
+Ecommerce\configuration\ReadConfiguration.class
+Ecommerce\pageClasses\Tc_NewRegistration.class
+Utilities\TestUtils.class
+Com\ECommerce\BaseClass\BaseClass.class
+Ecommerce\Utilities\ExtentReportsNG.class
+Ecommerce\Utilities\RetryAnalyzer.class
+Utilities\RetryAnalyzer.class
+Ecommerce\Utilities\TestUtils.class
+Utilities\Mytrasnsfomer.class
+Ecommerce\Utilities\GenericUtils.class
+Ecommerce\Utilities\Mytrasnsfomer.class
